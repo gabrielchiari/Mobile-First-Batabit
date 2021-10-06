@@ -1,0 +1,27 @@
+{
+  "name": "mobile-first-batabit",
+  "version": "1.0.0",
+  "description": "Its a design for Batabit in the course of the HTML5 and CSS3 Workshop",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielchiari/Mobile-First-Batabit.git"
+  },
+  "keywords": [
+    "\"mobile",
+    "first\"",
+    "batabit",
+    "html",
+    "css",
+    "npm"
+  ],
+  "author": "gabriel chiari <gabrielchiari.taf@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielchiari/Mobile-First-Batabit/issues"
+  },
+  "homepage": "https://github.com/gabrielchiari/Mobile-First-Batabit#readme"
+}
